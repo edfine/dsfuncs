@@ -2,7 +2,7 @@
 of variables. 
 
 Only two functions here are meant to be called externally, while 
-the rest are used internally. `plot_dist_var` and 
+the rest are used internally. `plot_var_dist` and 
 `plot_binary_response` are those two. 
 
 The former plots the distribution of an inputted categorical or 
